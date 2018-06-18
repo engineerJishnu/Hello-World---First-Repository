@@ -7,7 +7,6 @@ Responsibility". Use It Wisely!"
 
 About Me
 --------
-
 Howdy!....This is my first GitHub repository - I created on 16th May 2018 and
 am learning how to use GitHub!
 
