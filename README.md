@@ -10,8 +10,9 @@ About Me
 Howdy!....This is my first GitHub repository - I created on 16th May 2018 and
 am learning how to use GitHub!
 
-I am a "Prana" - a living being, as like other living being I INHALE and EXHALE.
-It's a basic activity and is must...else we are dead if we stop inhaling and exhaling.
+I am a "Prana" - the Sanskrit word for "life force / Life Energy" or in short living being.
+To keep this "Life Force / Life Energy" working....I INHALE and EXHALE.
+It's a basic activity and ismust...else we are dead if we stop inhaling and exhaling.
 
 The name given to this "Prana" in this birth is Jishnu Chakrabarti.
 
@@ -164,5 +165,5 @@ Morpheus: Remember: all I'm offering is the truth. Nothing more.
 
 After swallowing the red pill, his reality disintegrates and Neo awakens, naked,
 weak and hairless, in a liquid-filled pod, one of countless others connected by cables
-to an elaborate electrical system. He is rescued and brought aboard Morpheus'
+to an elaborate electrical system. He is rescued and brought aboard Morpheus's
 hovercraft, the Nebuchadnezzar.
