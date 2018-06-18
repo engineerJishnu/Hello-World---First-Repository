@@ -47,7 +47,8 @@ I start with the Matrix movie and here is some interesting part of it.
 The Matrix
 ----------
 The Matrix is a 1999 science fiction action film written and directed by The Wachowskis.
-My most favorite part is when Trinity meets Neo at night club and when Neo meets Morpheus for the first time.
+My most favorite part is when Trinity meets Neo at night club and when Neo meets
+Morpheus for the first time.
 
 A woman named "The Trinity" is cornered by police in an abandoned hotel. After
 overpowering them with superhuman abilities, a group of sinister superhuman grey
@@ -106,18 +107,22 @@ you if you want it to.
 
 //----------------------------------------------------------------------
 
-Neo meets Morpheus, who offers him a choice between a red pill that will show him the truth about the Matrix, and a blue pill that will return him to his former life.
+Neo meets Morpheus, who offers him a choice between a red pill that will show
+him the truth about the Matrix, and a blue pill that will return him to his former life.
 
 [Trinity has brought Neo to meet Morpheus]
 Morpheus: Atlast...Welcome Neo! As you no doubt have guessed...I am Morpheus.
 
 Neo: Its an honor to meet you.
 
-Morpheus: No...the honor is mine. Please come and sit down. I imagine that right now, you're feeling a bit like Alice. Hm? Tumbling down the rabbit hole?
+Morpheus: No...the honor is mine. Please come and sit down. I imagine that right
+now, you're feeling a bit like Alice. Hm? Tumbling down the rabbit hole?
 
 Neo: You could say that.
 
-Morpheus: I see it in your eyes. You have the look of a man who accepts what he sees because he is expecting to wake up. Ironically, that's not far from the truth. Do you believe in fate, Neo?
+Morpheus: I see it in your eyes. You have the look of a man who accepts what he
+sees because he is expecting to wake up. Ironically, that's not far from the
+truth. Do you believe in fate, Neo?
 
 Neo: No.
 
