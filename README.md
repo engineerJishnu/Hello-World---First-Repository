@@ -28,14 +28,15 @@ I have started learning (self) C++ programming language.
 I keenly wish to upgrade my career from Printing Field to Software Engineering field.
 
 I always love to think like an engineer and thanks to my parents who encouraged me
-and provided me the help and facilities to become an engineer. I work like an
-artist as in programming - the coder need to be creative in order write a simple
-and optimized codes. I love to dream like a futuristics nerd but in heart love
-like a human, and sleep like a baby.
+and provided me the support and facilities to become an engineer. I love to work
+like a creative artist as in programming - the coder need to be creative in order
+write a simple and optimized codes. I love to dream like a futuristics nerd but
+in heart have love like a human, and finally love to sleep like a baby.
 
 I love watching Hollywood Sci Fi movies, as it gives insight to the brilliant ideas
-about how the futuristics world would look like in Blade Runner(both parts), Prometheus,
-Interstellar, The Terminator, Alien(1979), The Matrix, Ex Machina, Arrival, Oblivion  etc.
+about how the futuristics world and technology would look like in Blade Runner
+(both parts), Prometheus, Interstellar, The Terminator, Alien(1979), The Matrix,
+Ex Machina, Arrival, Oblivion, Inception  etc.
 
 I will pen down my personal thoughts and comments about such movies which I come across.
 I may create short story of my own version and hope whoever will read this will
