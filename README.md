@@ -7,11 +7,11 @@ And, just as Uncle Ben said to Peter Parker, "With Great Power Comes Great Respo
 About Me
 --------
 
-Howdy!....This is the first GitHub repository - I created on 16th May 2018 and
+Howdy!....This is my first GitHub repository - I created on 16th May 2018 and
 am learning how to use GitHub!
 
 I am a "Prana" - a living being, as like other living being I INHALE and EXHALE.
-It's a basic and must...else we are dead as they stop inhaling and exhaling.
+It's a basic activity and is must...else we are dead if we stop inhaling and exhaling.
 
 The name given to this "Prana" in this birth is Jishnu Chakrabarti.
 
@@ -30,19 +30,29 @@ I tend to think like an engineer, work like an artist as in programming coder ne
 to be creative in write an simple optimized codes, dream like a futuristics nerd,
 love like a human, and sleep like a baby.
 
-I love watching Hollywood Sci Fi movies, as it gives insight to the brilliant ideas about how the futuristics world would look like in Blade Runner(both parts), Prometheus, Interstellar, The Terminator, Alien(1979), The Matrix, Ex Machina, Arrival, Oblivion  etc.
+I love watching Hollywood Sci Fi movies, as it gives insight to the brilliant ideas
+about how the futuristics world would look like in Blade Runner(both parts), Prometheus,
+Interstellar, The Terminator, Alien(1979), The Matrix, Ex Machina, Arrival, Oblivion  etc.
 
-I will pen down my personal thoughts and comments about such movies which I come across. I may create short story of my own version and hope whoever will read this will definitely enjoy in reading.
+I will pen down my personal thoughts and comments about such movies which I come across.
+I may create short story of my own version and hope whoever will read this will definitely enjoy in reading.
 
 I start with the Matrix movie and here is some interesting part of it.
 
 The Matrix
 ----------
-The Matrix is a 1999 science fiction action film written and directed by The Wachowskis. My most favourite part is when Trinity meets Neo at night club and when Neo meets Morpheus for the first time.
+The Matrix is a 1999 science fiction action film written and directed by The Wachowskis.
+My most favorite part is when Trinity meets Neo at night club and when Neo meets Morpheus for the first time.
 
-A woman named "The Trinity" is cornered by police in an abandoned hotel. After overpowering them with superhuman abilities, a group of sinister superhuman grey green-suited Agents leads the police in a rooftop pursuit of the woman. She answers a ringing public telephone and vanishes.
+A woman named "The Trinity" is cornered by police in an abandoned hotel. After
+overpowering them with superhuman abilities, a group of sinister superhuman grey
+green-suited Agents leads the police in a rooftop pursuit of the woman. She answers
+a ringing public telephone and vanishes.
 
-Computer programmer named Thomas Anderson, living a double life as the hacker "Neo", feels something is wrong with the world and is puzzled by repeated online encounters with the cryptic phrase "The Matrix". The woman, Trinity, contacts him, saying that a man named Morpheus can explain its meaning.
+Computer programmer named Thomas Anderson, living a double life as the hacker "Neo",
+feels something is wrong with the world and is puzzled by repeated online encounters
+with the cryptic phrase "The Matrix". The woman, Trinity, contacts him, saying that
+a man named Morpheus can explain its meaning.
 
 Trinity: [approaches Neo at a nightclub] Hello, Neo.
 
@@ -76,14 +86,18 @@ Trinity: They are watching you, Neo.
 
 Neo: who is?
 
-Trinity: Please listen..I know why you're here, Neo. I know what you've been doing … why you hardly sleep, why you live alone, and why night after night, you sit at your computer.
+Trinity: Please listen..I know why you're here, Neo. I know what you've been doing …
+why you hardly sleep, why you live alone, and why night after night, you sit at your computer.
 
-Trinity: You're looking for him. I know because I was once looking for the same thing. And when he found me, he told me I wasn't really looking for him. I was looking for an answer. It's the question that drives us, Neo.
-It's the question that brought you here. You know the question, just as I did.
+Trinity: You're looking for him. I know because I was once looking for the same thing.
+And when he found me, he told me I wasn't really looking for him. I was looking for
+an answer. It's the question that drives us, Neo.It's the question that brought you here.
+You know the question, just as I did.
 
 Neo: What is the Matrix?
 
-Trinity: The answer is out there, Neo, and it's looking for you, and it will find you if you want it to.
+Trinity: The answer is out there, Neo, and it's looking for you, and it will find
+you if you want it to.
 
 //----------------------------------------------------------------------
 
@@ -106,7 +120,11 @@ Morpheus: Why not?
 
 Neo: Because I don't like the idea that I'm not in control of my life.
 
-Morpheus: I know exactly what you mean. Let me tell you why you're here. You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world. You don't know what it is, but it's there, like a splinter in your mind, driving you mad. It is this feeling that has brought you to me. Do you know what I'm talking about?
+Morpheus: I know exactly what you mean. Let me tell you why you're here. You're
+here because you know something. What you know you can't explain, but you feel it.
+You've felt it your entire life, that there's something wrong with the world. You
+don't know what it is, but it's there, like a splinter in your mind, driving you mad.
+It is this feeling that has brought you to me. Do you know what I'm talking about?
 
 Neo: The Matrix.
 
@@ -114,27 +132,37 @@ Morpheus: Do you want to know.....what it is?
 
 [Neo nods]
 
-Morpheus: The Matrix is everywhere. It is all around us. Even now, in this very room. You can see it when you look out your window or when you turn on your television. You can feel it when you go to work…when you go to church…when you pay your taxes.
+Morpheus: The Matrix is everywhere. It is all around us. Even now, in this very room.
+You can see it when you look out your window or when you turn on your television.
+You can feel it when you go to work…when you go to church…when you pay your taxes.
 "It is the world that has been pulled over your eyes to blind you from the truth."
 
 Neo: What truth?
 
-Morpheus: [leans in closer to Neo] That you are a slave, Neo. Like everyone else you were born into bondage. Born into a prison that you cannot smell or taste or touch. A prison for your mind.
+Morpheus: [leans in closer to Neo] That you are a slave, Neo. Like everyone else
+you were born into bondage. Born into a prison that you cannot smell or taste or
+touch. A prison for your mind.
 
 [pause]
 
-Morpheus: Unfortunately, no one can be....told what the Matrix is. You have to see it for yourself.
+Morpheus: Unfortunately, no one can be....told what the Matrix is. You have to see it
+for yourself.
 
 [opens pillbox, empties contents into his palms, outstretches his hands]
 
 This is your last chance. After this, there is no turning back.
 
-You take the blue pill [opens his right hand revealing blue pill], the story ends, you wake up in your bed and believe whatever you want to believe.
+You take the blue pill [opens his right hand revealing blue pill], the story ends,
+you wake up in your bed and believe whatever you want to believe.
 
-You take the red pill [opens his left hand revealing red pill], you stay in Wonderland, and I show you how deep the rabbit hole goes.
+You take the red pill [opens his left hand revealing red pill], you stay in Wonderland,
+and I show you how deep the rabbit hole goes.
 
 [Neo, after a pause, reaches for the red pill]
 
 Morpheus: Remember: all I'm offering is the truth. Nothing more.
 
-After swallowing the red pill, his reality disintegrates and Neo awakens, naked, weak and hairless, in a liquid-filled pod, one of countless others connected by cables to an elaborate electrical system. He is rescued and brought aboard Morpheus' hovercraft, the Nebuchadnezzar.
+After swallowing the red pill, his reality disintegrates and Neo awakens, naked,
+weak and hairless, in a liquid-filled pod, one of countless others connected by cables
+to an elaborate electrical system. He is rescued and brought aboard Morpheus'
+hovercraft, the Nebuchadnezzar.
