@@ -2,7 +2,8 @@
 My First Repository in GitHub
 
 The Wise Quote - "The command line is a very powerful tool in Linux as well as in Mac OS.
-And, just as Uncle Ben said to Peter Parker, "With Great Power Comes Great Responsibility". Use It Wisely!"
+And, just as Uncle Ben said to Peter Parker, "With Great Power Comes Great
+Responsibility". Use It Wisely!"
 
 About Me
 --------
@@ -10,33 +11,41 @@ About Me
 Howdy!....This is my first GitHub repository - I created on 16th May 2018 and
 am learning how to use GitHub!
 
-I am a "Prana" - the Sanskrit word for "life force / Life Energy" or in short living being.
+I am a "Prana" - the Sanskrit word for "life force / Life Energy" or in short a living being.
 To keep this "Life Force / Life Energy" working....I INHALE and EXHALE.
-It's a basic activity and ismust...else we are dead if we stop inhaling and exhaling.
+It's a most important activity / karma and is must...else the body without Prana
+is dead if we stop the process of inhaling and exhaling.
 
-The name given to this "Prana" in this birth is Jishnu Chakrabarti.
+The name given to this "Prana" in this birth is Jishnu Chakrabarti and the life
+cycle of every prana is for limited period. Like for every beginning there is an end,
+hence at some point of time the prana has to stop working.
 
-I wrote my first program in the year 1988 in BASIC programming language using
-Sinclair ZX computer and I fell in love with computers.
+In this current life cycle, I got an opportunity to write my first program in
+the year 1988 in BASIC programming language using Sinclair ZX computer and I instantly
+fell in love with computers.
 
 Apart from Programming, I developed an interest for Robotics, AI, listening to music
 from Vinyls and Sci Fi movies from Hollywood.
 
-My favorite language is C which is being founded by Dennis M Ritchie. Recently,
-I have started learning (self) C++ programming language.
+My favorite language is C which is founded by Dennis M Ritchie. Recently,
+I have started learning (self) C++ programming language as in spite of complex in
+nature, it does have good features and is improving a lot.  
 
-I keenly wish to upgrade my career from Printing Field to Software Engineering field.
+I keenly wish to upgrade my career from Printing Field to Software Engineering field
+writing core programs for various hardwares / devices and architecture used for
+Robotics and AI fields.
 
-I always love to think like an engineer and thanks to my parents who encouraged me
+I always love to think like a real engineer and thanks to my parents who encouraged me
 and provided me the support and facilities to become an engineer. I love to work
 like a creative artist as in programming - the coder need to be creative in order
 write a simple and optimized codes. I love to dream like a futuristics nerd but
-in heart have love like a human, and finally love to sleep like a baby.
+in heart have love like a human, and finally at the end of hard day...I love to
+sleep like a baby.
 
 I love watching Hollywood Sci Fi movies, as it gives insight to the brilliant ideas
-about how the futuristics world and technology would look like in Blade Runner
-(both parts), Prometheus, Interstellar, The Terminator, Alien(1979), The Matrix,
-Ex Machina, Arrival, Oblivion, Inception  etc.
+about how the futuristics world and technology would look like. Some of my favorite
+movies are Blade Runner (both parts), Prometheus, Interstellar, The Terminator,
+Alien(1979 version), The Matrix, Ex Machina, Arrival, Oblivion, Inception  etc.
 
 I will pen down my personal thoughts and comments about such movies which I come across.
 I may create short story of my own version and hope whoever will read this will
@@ -46,11 +55,11 @@ I start with the Matrix movie and here is some interesting part of it.
 
 The Matrix
 ----------
-The Matrix is a 1999 science fiction action film written and directed by The Wachowskis.
-My most favorite part is when Trinity meets Neo at night club and when Neo meets
-Morpheus for the first time.
+The Matrix is a science fiction action film written and directed by The Wachowskis
+in the year 1999. My most favorite part is- (1) when Trinity meets Neo at night club
+and (2) when Neo meets Morpheus for the first time.
 
-A woman named "The Trinity" is cornered by police in an abandoned hotel. After
+A woman named "The Trinity" is cornered by the police in an abandoned hotel. After
 overpowering them with superhuman abilities, a group of sinister superhuman grey
 green-suited Agents leads the police in a rooftop pursuit of the woman. She answers
 a ringing public telephone and vanishes.
