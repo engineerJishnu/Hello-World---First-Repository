@@ -10,13 +10,13 @@ About Me
 Howdy!....This is my first GitHub repository - I created on 16th May 2018 and
 am learning how to use GitHub!
 
-I am a "Prana" - the Sanskrit word for "life force / Life Energy" or in short a living being.
-To keep this "Life Force / Life Energy" working....I INHALE and EXHALE.
-It's a most important activity / karma and is must...else the body without Prana
-is dead if we stop the process of inhaling and exhaling.
+I have "Prana" - the Sanskrit word for "life force / Life Energy" and thus is known
+as Prani ...in short a living being. To keep this "Life Force / Life Energy" working
+....I INHALE and EXHALE. It's a most important activity / karma and is must...
+else the body without Prana is dead if we stop the process of inhaling and exhaling.
 
-The name given to this "Prana" in this birth is Jishnu Chakrabarti and the life
-cycle of every prana is for limited period. Like for every beginning there is an end,
+The name given to this "Prani" in this birth is Jishnu Chakrabarti and the life
+cycle of every prani is for limited period. Like for every beginning there is an end,
 hence at some point of time the prana has to stop working.
 
 In this current life cycle, I got an opportunity to write my first program in
