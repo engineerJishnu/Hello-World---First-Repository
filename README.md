@@ -14,7 +14,7 @@ am learning how to use GitHub!
 I have "Prana" - the Sanskrit word for "life force / Life Energy" and thus I am known
 as Prani ...in short a living being. 
 
-To keep this "Life Force / Life Energy" working, I follow a karma of breathing...INHALING and EXHALING. 
+To keep this "Life Force / Life Energy" working, I follow the karma of breathing...INHALING and EXHALING. 
 It's a most important activity / karma and is must...else the Prani without 
 Prana is dead if we stop the process of inhaling and exhaling.
 
@@ -27,14 +27,14 @@ the year 1988 in BASIC programming language using Sinclair ZX computer and I ins
 fell in love with computers.
 
 Apart from Programming, I developed an interest for Robotics, AI, listening to music
-from Vinyls and Sci Fi movies from Hollywood.
+from Vinyls and watching Sci Fi movies from Hollywood.
 
 My favorite language is C which is founded by Dennis M Ritchie. Recently,
 I have started learning (self) C++ programming language as in spite of complex in
 nature, it does have good features and is improving a lot.  
 
 I keenly wish to upgrade my career from Printing Field to Software Engineering field
-writing core programs for various hardwares / devices and architecture used for
+writing core programs for various hardwares  and architecture used for
 Robotics and AI fields.
 
 I always love to think like a real engineer and thanks to my parents who encouraged me
@@ -44,12 +44,12 @@ write a simple and optimized codes. I love to dream like a futuristics nerd but
 in heart have love like a human, and finally at the end of hard day...I love to
 sleep like a baby.
 
-I love watching Hollywood Sci Fi movies, as it gives insight to the brilliant ideas
+I love watching Hollywood Sci Fi movies, as it gives an insight to the brilliant ideas
 about how the futuristics world and technology would look like. Some of my favorite
 movies are Blade Runner (both parts), Prometheus, Interstellar, The Terminator,
 Alien(1979 version), The Matrix, Ex Machina, Arrival, Oblivion, Inception  etc.
 
-I will pen down my personal thoughts and comments about such movies which I come across.
+I wish to pen down my personal thoughts and comments about such movies which I come across.
 I may create short story of my own version and hope whoever will read this will
 definitely enjoy in reading.
 
