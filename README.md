@@ -17,6 +17,7 @@ as Prani ...in short a living being.
 To keep this "Life Force / Life Energy" working, I follow the karma of breathing...INHALING and EXHALING. 
 It's a most important activity / karma and is must...else the Prani without 
 Prana is dead if we stop the process of inhaling and exhaling.
+Unfortunately, we don't feel this breathing process and thus sometimes do shallow breathing.
 
 The name given to this "Prani" in this birth is Jishnu Chakrabarti and the life
 cycle of every prani is for limited period. Like for every beginning there is an end,
