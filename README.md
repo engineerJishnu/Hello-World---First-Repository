@@ -1,19 +1,22 @@
 # Hello-World---First-Repository
+
 My First Repository in GitHub
 -----------------------------
-The Wise Quote - "The command line is a very powerful tool in Linux as well as in Mac OS.
-And, just as Uncle Ben said to Peter Parker, "With Great Power Comes Great
-Responsibility". Use It Wisely!"
+The Wise Quote - "The command line is a very powerful tool in Linux as well as in Mac OS
+and should be used with responsibility.And, just as Uncle Ben said to Peter Parker, 
+"With Great Power Comes Great Responsibility". Hence should be used  wisely!"
 
 About Me
 --------
 Howdy!....This is my first GitHub repository - I created on 16th May 2018 and
 am learning how to use GitHub!
 
-I have "Prana" - the Sanskrit word for "life force / Life Energy" and thus is known
-as Prani ...in short a living being. To keep this "Life Force / Life Energy" working
-....I INHALE and EXHALE. It's a most important activity / karma and is must...
-else the body without Prana is dead if we stop the process of inhaling and exhaling.
+I have "Prana" - the Sanskrit word for "life force / Life Energy" and thus I am known
+as Prani ...in short a living being. 
+
+To keep this "Life Force / Life Energy" working, I follow a karma of breathing...INHALING and EXHALING. 
+It's a most important activity / karma and is must...else the Prani without 
+Prana is dead if we stop the process of inhaling and exhaling.
 
 The name given to this "Prani" in this birth is Jishnu Chakrabarti and the life
 cycle of every prani is for limited period. Like for every beginning there is an end,
@@ -55,8 +58,11 @@ I start with the Matrix movie and here is some interesting part of it.
 The Matrix
 ----------
 The Matrix is a science fiction action film written and directed by The Wachowskis
-in the year 1999. My most favorite part is- (1) when Trinity meets Neo at night club
-and (2) when Neo meets Morpheus for the first time.
+in the year 1999. 
+
+My most favorite part is -
+(1) when Trinity meets Neo at night club and 
+(2) when Neo meets Morpheus for the first time.
 
 A woman named "The Trinity" is cornered by the police in an abandoned hotel. After
 overpowering them with superhuman abilities, a group of sinister superhuman grey
@@ -103,12 +109,12 @@ Neo: who is?
 Trinity: Please listen..I know why you're here, Neo. I know what you've been doing …
 why you hardly sleep, why you live alone, and why night after night, you sit at your computer.
 
-Trinity: You're looking for him. I know because I was once looking for the same thing.
+Trinity (continuing) : You're looking for him. I know, because I was once looking for the same thing.
 And when he found me, he told me I wasn't really looking for him. I was looking for
-an answer. It's the question that drives us, Neo.It's the question that brought you here.
+an answer. It's the question that drives us, Neo. It's the question that brought you here.
 You know the question, just as I did.
 
-Neo: What is the Matrix?
+Neo: ..What.. is the Matrix?
 
 Trinity: The answer is out there, Neo, and it's looking for you, and it will find
 you if you want it to.
@@ -123,8 +129,9 @@ Morpheus: Atlast...Welcome Neo! As you no doubt have guessed...I am Morpheus.
 
 Neo: Its an honor to meet you.
 
-Morpheus: No...the honor is mine. Please come and sit down. I imagine that right
-now, you're feeling a bit like Alice. Hm? Tumbling down the rabbit hole?
+Morpheus: No...the honor is mine. Please come and sit down. 
+I imagine that rightnow, you're feeling a bit like Alice. Hm? Tumbling down 
+the rabbit hole?
 
 Neo: You could say that.
 
