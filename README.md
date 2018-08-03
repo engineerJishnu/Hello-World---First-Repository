@@ -6,13 +6,20 @@ The Wise Quote - "The command line is a very powerful tool in Linux as well as i
 and should be used with responsibility.And, just as Uncle Ben said to Peter Parker, 
 "With Great Power Comes Great Responsibility". Hence should be used  wisely!"
 
+As a man himself sows, so he himself reaps; no man inherits the good or evil act of another man. The fruit is of the same quality as the action. — Mahabharata, xii.291.22
+
 About Me
 --------
 Howdy!....This is my first GitHub repository - I created on 16th May 2018 and
 am learning how to use GitHub!
 
+
 I have "Prana" - the Sanskrit word for "life force / Life Energy" and thus I am known
 as Prani ...in short a living being. 
+
+Karma means action, work or deed. 
+
+In the spiritual principle of cause and effect where good intent and good deeds contribute to good karma and future happiness, while bad intent and bad deeds contribute to bad karma and future suffering.
 
 To keep this "Life Force / Life Energy" working, I follow the karma of breathing...INHALING and EXHALING. 
 It's a most important activity / karma and is must...else the Prani without 
