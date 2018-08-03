@@ -8,6 +8,16 @@ and should be used with responsibility.And, just as Uncle Ben said to Peter Park
 
 As a man himself sows, so he himself reaps; no man inherits the good or evil act of another man. The fruit is of the same quality as the action. — Mahabharata, xii.291.22
 
+According to Vivekananda:
+
+If one reads this one Shloka, one gets all the merits of reading the entire Bhagavad Gita; for in this one Shloka lies imbedded the whole message of the Gita."
+
+क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते । क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परंतप॥
+
+klaibhyaṁ mā sma gamaḥ pārtha naitattvayyupapadyate, kṣudraṁ hṛdayadaurbalyaṁ tyaktvottiṣṭha paraṁtapa.
+
+Do not yield to unmanliness, O son of Parthā, for it does not befit you. Shake off this petty faintheartedness and arise, O scorcher of enemies
+
 About Me
 --------
 Howdy!....This is my first GitHub repository - I created on 16th May 2018 and
@@ -17,7 +27,7 @@ am learning how to use GitHub!
 I have "Prana" - the Sanskrit word for "life force / Life Energy" and thus I am known
 as Prani ...in short a living being. 
 
-Karma means action, work or deed. 
+Then there is another term in Sanskrit named "Karma" means action, work or deed. 
 
 In the spiritual principle of cause and effect where good intent and good deeds contribute to good karma and future happiness, while bad intent and bad deeds contribute to bad karma and future suffering.
 
@@ -92,7 +102,7 @@ Neo: Who are you?
 
 Trinity: My name is Trinity.
 
-Neo: Trinity.....The Trinity? That cracked the IRS d-base?
+Neo: Trinity.....The Trinity? That cracked the IRS D-Base?
 
 Trinity: That was a long time ago.
 
@@ -106,7 +116,7 @@ Trinity: Most guys do.
 
 Neo: That was you on my computer...How did you that?
 
-Trinity: Right now all I can tell you is that you are in danger. I bought you here to warn you.
+Trinity(leaning near to Neo's ear): Right now all I can tell you is that...you are in danger. I bought you here to warn you.
 
 Neo: Of what?
 
@@ -124,8 +134,7 @@ You know the question, just as I did.
 
 Neo: ..What.. is the Matrix?
 
-Trinity: The answer is out there, Neo, and it's looking for you, and it will find
-you if you want it to.
+Trinity: The answer is out there, Neo, and it's looking for you, and it will find you if you want it to.
 
 //----------------------------------------------------------------------
 
